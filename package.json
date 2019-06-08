@@ -1,0 +1,22 @@
+{
+  "name": "botzinhoteste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flamaral/botzinhoteste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flamaral/botzinhoteste/issues"
+  },
+  "homepage": "https://github.com/flamaral/botzinhoteste#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
